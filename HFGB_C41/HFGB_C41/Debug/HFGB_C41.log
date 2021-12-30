@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Bede\Documents\Schule\Prog1\Hausaufgabe\HFGB_C41\HFGB_C41\main.c(19,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Bede\Documents\Schule\Prog1\Hausaufgabe\HFGB_C41\HFGB_C41\main.c(29,36): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  HFGB_C41.vcxproj -> C:\Users\Bede\Documents\Schule\Prog1\Hausaufgabe\HFGB_C41\Debug\HFGB_C41.exe

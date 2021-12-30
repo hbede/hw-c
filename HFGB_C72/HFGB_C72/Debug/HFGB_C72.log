@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Bede\Documents\Schule\Prog1\Hausaufgabe\HFGB_C72\HFGB_C72\main.c(9,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Bede\Documents\Schule\Prog1\Hausaufgabe\HFGB_C72\HFGB_C72\main.c(11,23): warning C4018: '<': signed/unsigned mismatch
+  HFGB_C72.vcxproj -> C:\Users\Bede\Documents\Schule\Prog1\Hausaufgabe\HFGB_C72\Debug\HFGB_C72.exe

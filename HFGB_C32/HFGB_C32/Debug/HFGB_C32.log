@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\Bede\Documents\Schule\Prog1\Hausaufgabe\HFGB_C32\HFGB_C32\main.c(77,28): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\Bede\Documents\Schule\Prog1\Hausaufgabe\HFGB_C32\HFGB_C32\main.c(78,32): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\Bede\Documents\Schule\Prog1\Hausaufgabe\HFGB_C32\HFGB_C32\main.c(69): warning C4715: 'f3_eff': not all control paths return a value
+C:\Users\Bede\Documents\Schule\Prog1\Hausaufgabe\HFGB_C32\HFGB_C32\main.c(46): warning C4715: 'f3': not all control paths return a value
+  HFGB_C32.vcxproj -> C:\Users\Bede\Documents\Schule\Prog1\Hausaufgabe\HFGB_C32\Debug\HFGB_C32.exe

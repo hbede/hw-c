@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Bede\Documents\Schule\Prog1\Hausaufgabe\HFGB_C93\main.c(34,166): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Bede\Documents\Schule\Prog1\Hausaufgabe\HFGB_C93\main.c(56,57): warning C4244: 'function': conversion from 'float' to 'size_t', possible loss of data
+  HFGB_C93.vcxproj -> C:\Users\Bede\Documents\Schule\Prog1\Hausaufgabe\HFGB_C93\Debug\HFGB_C93.exe

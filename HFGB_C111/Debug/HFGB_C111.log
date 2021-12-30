@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\Bede\Documents\Schule\Prog1\Hausaufgabe\HFGB_C111\main.c(39,9): warning C4101: 'i': unreferenced local variable
+C:\Users\Bede\Documents\Schule\Prog1\Hausaufgabe\HFGB_C111\main.c(56,9): warning C4101: 'ret': unreferenced local variable
+C:\Users\Bede\Documents\Schule\Prog1\Hausaufgabe\HFGB_C111\main.c(84,22): warning C4047: 'function': 'prime *' differs in levels of indirection from 'prime (*)[100]'
+C:\Users\Bede\Documents\Schule\Prog1\Hausaufgabe\HFGB_C111\main.c(84,15): warning C4024: 'initPrime': different types for formal and actual parameter 1
+C:\Users\Bede\Documents\Schule\Prog1\Hausaufgabe\HFGB_C111\main.c(86,23): warning C4047: 'function': 'prime *' differs in levels of indirection from 'prime (*)[100]'
+C:\Users\Bede\Documents\Schule\Prog1\Hausaufgabe\HFGB_C111\main.c(86,16): warning C4024: 'printPrime': different types for formal and actual parameter 1
+C:\Users\Bede\Documents\Schule\Prog1\Hausaufgabe\HFGB_C111\main.c(89,23): warning C4047: 'function': 'prime *' differs in levels of indirection from 'prime (*)[100]'
+C:\Users\Bede\Documents\Schule\Prog1\Hausaufgabe\HFGB_C111\main.c(89,16): warning C4024: 'printPrime': different types for formal and actual parameter 1
+  HFGB_C111.vcxproj -> C:\Users\Bede\Documents\Schule\Prog1\Hausaufgabe\HFGB_C111\Debug\HFGB_C111.exe

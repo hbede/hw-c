@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Bede\Documents\Schule\Prog1\Hausaufgabe\HFGB_C51\HFGB_C51\main.c(63,20): warning C4305: 'function': truncation from '__int64' to 'unsigned int'
+  HFGB_C51.vcxproj -> C:\Users\Bede\Documents\Schule\Prog1\Hausaufgabe\HFGB_C51\Debug\HFGB_C51.exe
